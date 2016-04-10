@@ -1,0 +1,334 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\AllocateWork$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\AllocateWork.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMessage.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$$anonfun$1.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$$anonfun$2.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Master$$anonfun$receive$2.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Master.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$NotifyServerActor$$anonfun$receive$1.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$NotifyServerActor.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$3.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$checkValidCoin$1.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$randomStringFromCharList$1.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$receive$3.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\CollectCoins$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\CollectCoins.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Mine$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Mine.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\RemoteNotify$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\RemoteNotify.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Result$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Result.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\SendBitCoin$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\SendBitCoin.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Work$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Work.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\terminate$.class
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\terminate.class
+binary dependencies:
+4 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> C:\Users\Tarun\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> C:\Users\Tarun\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> D:\IDE\activator-dist-1.3.6-Scala\repository\com.typesafe\config\1.3.0\bundles\config.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AllocateWork
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AllocateWork$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMessage
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$$anonfun$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$$anonfun$2
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Master
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Master$$anonfun$receive$2
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$NotifyServerActor
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$NotifyServerActor$$anonfun$receive$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Worker
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Worker$$anonfun$3
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Worker$$anonfun$checkValidCoin$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Worker$$anonfun$randomStringFromCharList$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote$Worker$$anonfun$receive$3
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> CollectCoins
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> CollectCoins$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Mine
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Mine$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> RemoteNotify
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> RemoteNotify$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Result
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Result$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> SendBitCoin
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> SendBitCoin$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Work
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Work$
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> terminate
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> terminate$
+used names:
+163 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> !
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> !=
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> &&
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> +
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ++
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> <init>
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ==
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> A1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AbstractFunction1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AbstractFunction2
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AbstractFunction3
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Actor
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ActorRef
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ActorSelection
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ActorSystem
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AllocateWork
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> AnyRef
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Array
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ArrayBuffer
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> B1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMessage
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> BitCoinMinerRemote
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Char
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ClassTag
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> CollectCoins
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ConfigFactory
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Function1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> IndexedSeq
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Int
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Integer
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Integer2int
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Long
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Master
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> MessageDigest
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Mine
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> NoOfZeroes
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> None
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> NotifyServerActor
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Predef
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Product
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Props
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Random
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> RemoteNotify
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Result
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> RoundRobinPool
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Runtime
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ScalaRunTime
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> SendBitCoin
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Seq
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Serializable
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Statics
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> String
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> StringBuilder
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> System
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Unit
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Work
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> Worker
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> _hashCode
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> _toString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> actor
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> actorOf
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> actorRef2Scala
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> actorSelection
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> akka
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> anyHash
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> append
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> apply
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> args
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> asInstanceOf
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> augmentString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> availableProcessors
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> bitCoinCount
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> byteArrayOps
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> canBuildFrom
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> charWrapper
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> chars
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> checkValidCoin
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> coinCollector
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> coinHash
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> collection
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> com
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> compareStr
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> concurrent
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> config
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> configfactory
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> context
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> currentTimeMillis
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> digest
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> duration
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> eq
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> finalizeHash
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> findBitCoins
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> foreach
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> format
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> generateHashInput
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> getBytes
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> getInstance
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> getRuntime
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> hashProduced
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> hashingStr
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> hexString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> immutable
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> input
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> int2Integer
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> intWrapper
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ip
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> isInstanceOf
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> java
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> lang
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> length
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> load
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> longHash
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> map
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> master
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> materializeClassTag
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> md
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> mix
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> mkString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> mutable
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> nextInt
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> noOfWorkers
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> noOfZeroes
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> nonce
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> nonceCount
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> nonceCount_=
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> notifyServerActor
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> package
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> parseString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> passingStr
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> println
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> processors
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> qual$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> randomAlphaNumericString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> randomNum
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> randomStringFromCharList
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> refArrayOps
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> remoteSystem
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> routing
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> runtime
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> sb
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> scala
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> security
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> self
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> server
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> sha256Method
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> start
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> startsWith
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> terminate
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> to
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> toScala
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> toString
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> typedProductIterator
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> typesafe
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> unchecked
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> until
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> util
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> value
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> while$1
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> withRouter
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> workerRouter
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> x$2
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> x$3
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> ||
+product stamps:
+30 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\AllocateWork$.class -> lastModified(1442199251887)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\AllocateWork.class -> lastModified(1442199251880)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMessage.class -> lastModified(1442199251888)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$$anonfun$1.class -> lastModified(1442199251908)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$$anonfun$2.class -> lastModified(1442199251912)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$.class -> lastModified(1442199251902)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Master$$anonfun$receive$2.class -> lastModified(1442199251932)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Master.class -> lastModified(1442199251924)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$NotifyServerActor$$anonfun$receive$1.class -> lastModified(1442199251947)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$NotifyServerActor.class -> lastModified(1442199251942)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$3.class -> lastModified(1442199251961)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$checkValidCoin$1.class -> lastModified(1442199251964)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$randomStringFromCharList$1.class -> lastModified(1442199251967)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker$$anonfun$receive$3.class -> lastModified(1442199251970)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote$Worker.class -> lastModified(1442199251959)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\BitCoinMinerRemote.class -> lastModified(1442199251893)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\CollectCoins$.class -> lastModified(1442199251982)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\CollectCoins.class -> lastModified(1442199251979)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Mine$.class -> lastModified(1442199251985)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Mine.class -> lastModified(1442199251992)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\RemoteNotify$.class -> lastModified(1442199251998)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\RemoteNotify.class -> lastModified(1442199251995)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Result$.class -> lastModified(1442199252008)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Result.class -> lastModified(1442199252005)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\SendBitCoin$.class -> lastModified(1442199252016)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\SendBitCoin.class -> lastModified(1442199252013)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\terminate$.class -> lastModified(1442199252030)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\terminate.class -> lastModified(1442199252035)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Work$.class -> lastModified(1442199252019)
+D:\Work\Workspace\Scala Workspace\BitCoinClient\target\scala-2.11\classes\Work.class -> lastModified(1442199252026)
+source stamps:
+1 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> hash(a82c1e66f5a3eff33cfab8b60b56baaf12e75237)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> lastModified(1440959660965)
+C:\Users\Tarun\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar -> lastModified(1441141394000)
+C:\Users\Tarun\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1441292364000)
+D:\IDE\activator-dist-1.3.6-Scala\repository\com.typesafe\config\1.3.0\bundles\config.jar -> lastModified(1441292364000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Tarun\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.4-SNAPSHOT.jar -> akka.actor.Actor
+C:\Users\Tarun\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+D:\IDE\activator-dist-1.3.6-Scala\repository\com.typesafe\config\1.3.0\bundles\config.jar -> com.typesafe.config.ConfigFactory
+internal apis:
+1 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBF0E0qAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwPQ0llHQABHNlbGZzcQB+AAsJk80idAAHY29udGV4dHVxAH4ACQAAAE5zcQB+AAto9ILhdAAGbm90aWZ5c3EAfgAL6J9uuHQAB3VuYXBwbHlzcQB+AAvB1dT3dAAMQ29sbGVjdENvaW5zc3EAfgALOLbgmnQACGR1cmF0aW9uc3EAfgALuSRypXQAB1JlY2VpdmVzcQB+AAtnWJC6dAAKTm9PZlplcm9lc3NxAH4AC595SZh0AAR3YWl0c3EAfgALAJWl63QABk1hc3RlcnNxAH4AC1bI+hR0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC6Jg+Tp0AA0kYXNJbnN0YW5jZU9mc3EAfgALjdpoh3QABnNlcnZlcnNxAH4AC0lq9xd0AAhjb2luSGFzaHNxAH4AC4XvU810AAxwcm9kdWN0QXJpdHlzcQB+AAtfJrdQdAAGZXF1YWxzc3EAfgALZmndenQADHNoYTI1Nk1ldGhvZHNxAH4ACzS8TRJ0AAxhc0luc3RhbmNlT2ZzcQB+AAtrIr7mdAAKbm9PZlplcm9lc3NxAH4AC+ba/PR0AAxzeW5jaHJvbml6ZWRzcQB+AAtUNLJmdAAMUmVtb3RlTm90aWZ5c3EAfgALESkbAnQADSRpc0luc3RhbmNlT2ZzcQB+AAtFfeFQdAAHcmVjZWl2ZXNxAH4AC680nzd0AApwcmVSZXN0YXJ0c3EAfgALNJrmsnQAEkJpdENvaW5NaW5lclJlbW90ZXNxAH4AC07sHUZ0AA1hcm91bmRSZWNlaXZlc3EAfgAL+igEl3QACGNhbkVxdWFsc3EAfgALqNFSc3QADmNoZWNrVmFsaWRDb2luc3EAfgALyFsW63QAC3Bvc3RSZXN0YXJ0c3EAfgALGMrN33QABG1haW5zcQB+AAtgo9qjdAAIcG9zdFN0b3BzcQB+AAsImuXNdAANcHJvZHVjdFByZWZpeHNxAH4AC4kg3yp0AAlub3RpZnlBbGxzcQB+AAvzeD6udAALcmVhZFJlc29sdmVzcQB+AAtZp/BsdAAJdGVybWluYXRlc3EAfgALrWpWtnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL6pT6ZnQADGlzSW5zdGFuY2VPZnNxAH4AC2Ujt4J0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALeAOOVHQADmFyb3VuZFBvc3RTdG9wc3EAfgAL2gjrUXQABFdvcmtzcQB+AAubQQP5dAAGPGluaXQ+c3EAfgALzZlcgnQADGJpdENvaW5Db3VudHNxAH4AC/Ce0Bp0AAhwcmVTdGFydHNxAH4ACyL04fR0ABFOb3RpZnlTZXJ2ZXJBY3RvcnNxAH4ACwLoI8l0AAl1bmhhbmRsZWRzcQB+AAvQMp7ydAAFYXBwbHlzcQB+AAuqWDJTdAALU2VuZEJpdENvaW5zcQB+AAt4gE9PdAAKbm9uY2VDb3VudHNxAH4AC+3gpoR0AAxBbGxvY2F0ZVdvcmtzcQB+AAvW0Vp2dAACPT1zcQB+AAvzzqf4dAANY29pbkNvbGxlY3RvcnNxAH4AC/JdKzN0AAVjbG9uZXNxAH4AC3ZYmsR0AApwYXNzaW5nU3Ryc3EAfgALhOktCXQAGHJhbmRvbVN0cmluZ0Zyb21DaGFyTGlzdHNxAH4ACylPmmF0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC1yKDhZ0AARjb3B5c3EAfgALeX7xAnQADGZpbmRCaXRDb2luc3NxAH4AC9pCeO90AAZzZW5kZXJzcQB+AAtuc1xVdAAIdG9TdHJpbmdzcQB+AAsOZNVkdAAMd29ya2VyUm91dGVyc3EAfgALG0Vb4XQAAiE9c3EAfgAL1nLinHQAGHJhbmRvbUFscGhhTnVtZXJpY1N0cmluZ3NxAH4AC1TAYB90AAhnZXRDbGFzc3NxAH4AC4pLkR90AAZXb3JrZXJzcQB+AAtJjjjhdAAOQml0Q29pbk1lc3NhZ2VzcQB+AAtEGe1ndAAOY29weSRkZWZhdWx0JDFzcQB+AAuzstBYdAAGUmVzdWx0c3EAfgALyM0aynQABXN0YXJ0c3EAfgALLYIB9nQAEWdlbmVyYXRlSGFzaElucHV0c3EAfgALSYmf6XQAAm5lc3EAfgALy5ar1nQABXZhbHVlc3EAfgALsmKN8HQABE1pbmVzcQB+AAsROGvTdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALvVLu0HQAAmVxc3EAfgALsyWlC3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACz0/SQ90AAIjI3NxAH4ACzWOoeB0AAhmaW5hbGl6ZXNxAH4AC7D+FC10AA5wcm9kdWN0RWxlbWVudHNxAH4AC/fHIr10AAhoYXNoQ29kZXNxAH4AC0kBaJd0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAtzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAlxAH4Aj3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgDOAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgC3TAAJaW5oZXJpdGVkcQB+ALdMAAdwYXJlbnRzcQB+ALd4cQB+ANVzcQB+AM4BdXEAfgCyAAAAAHBzcQB+AM4BdXEAfgCyAAAAAHBzcQB+AM4BdXIAEVtMeHNidGkuYXBpLlR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NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgJweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDJdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgDiWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgDUc3EAfgDhdAAFQXJyYXlxAH4CeHVxAH4A3wAAAAFzcQB+AOF0AAZTdHJpbmdzcQB+AOVzcQB+AOh1cQB+AOsAAAADc3EAfgDtcQB+APBzcQB+AO1xAH4A8nEAfgD0cHNxAH4AzgF1cQB+ALIAAAAAcHNxAH4AzgF1cQB+AN8AAAACc3EAfgDhcQB+AORxAH4CknNxAH4A4XEAfgD2cQB+AnhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFPycYXIHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AElEOlxXb3JrXFdvcmtzcGFjZVxTY2FsYSBXb3Jrc3BhY2VcQml0Q29pbkNsaWVudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqCweZvWj7/M8+ri2C1a6rxLnUjc=
+external apis:
+0 items
+source infos:
+1 items
+D:\Work\Workspace\Scala Workspace\BitCoinClient\src\main\scala\project1Remote.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8lzgGN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XFdvcmtcV29ya3NwYWNlXFNjYWxhIFdvcmtzcGFjZVxCaXRDb2luQ2xpZW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8mtFXZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XFdvcmtcV29ya3NwYWNlXFNjYWxhIFdvcmtzcGFjZVxCaXRDb2luQ2xpZW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8nBZ1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XFdvcmtcV29ya3NwYWNlXFNjYWxhIFdvcmtzcGFjZVxCaXRDb2luQ2xpZW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT8nGFyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XFdvcmtcV29ya3NwYWNlXFNjYWxhIFdvcmtzcGFjZVxCaXRDb2luQ2xpZW50XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

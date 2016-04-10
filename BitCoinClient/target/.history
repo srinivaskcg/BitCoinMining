@@ -1,0 +1,13 @@
+compile
+exit
+compile
+exit
+compile
+run 127.0.0.1
+eclipse
+compile
+run 127.0.0.1
+compile
+run 127.0.0.1
+compile
+run 127.0.0.1

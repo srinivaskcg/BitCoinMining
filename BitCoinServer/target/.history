@@ -1,0 +1,20 @@
+exit
+compile
+eclipse
+compile
+run 4
+run 3
+run 4
+reload
+compile
+run 3
+exit
+run 4
+run 5
+compile
+run 4
+run 3
+compile
+run 3
+compile
+run 5
